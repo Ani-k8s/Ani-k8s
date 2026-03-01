@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ani 👋
 
-<!--
-**Ani-k8s/Ani-k8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps Engineer | 8+ Years IT Experience
 
-Here are some ideas to get you started:
+I am transitioning into DevOps with hands-on experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Docker
+- Kubernetes
+- Jenkins
+- CI/CD Pipelines
+- Linux
+- Git
+- Terraform (Learning)
+- AWS (Learning)
+
+## 🔥 Current Focus
+Building end-to-end CI/CD pipelines and infrastructure automation projects.
+
+## 📂 Projects Coming Soon
+- DevOps CI/CD Pipeline Project
+- Kubernetes Deployment Project
+- Infrastructure as Code with Terraform
