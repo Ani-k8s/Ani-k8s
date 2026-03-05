@@ -10,8 +10,8 @@ I am transitioning into DevOps with hands-on experience in:
 - CI/CD Pipelines
 - Linux
 - Git
-- Terraform (Learning)
-- AWS (Learning)
+- Terraform
+- AWS
 
 ## 🔥 Current Focus
 Building end-to-end CI/CD pipelines and infrastructure automation projects.
